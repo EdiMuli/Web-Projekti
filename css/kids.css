@@ -1,0 +1,118 @@
+
+/*=====================*/
+/*==========Kids CSS===========*/
+#kids-id {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 50px;
+    padding-bottom: 30px;
+
+}
+
+#kids-id span {
+  color:#7ABEB2;
+}
+
+#img-kids {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+
+}
+
+.products {
+  color: white;
+}
+
+hr {
+  opacity: 0.2;
+}
+
+.product img {
+  width: 300px;
+  height: 400px;
+}
+
+.product-center {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  
+  gap: 5rem;
+  margin-bottom: 5rem;
+  
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+  
+}
+.product {
+  text-align: center;
+  padding-bottom: 1rem;
+  
+  border-radius: 2px solid black;
+  
+}
+
+.kids-section{
+  padding-top:40px;
+  padding-bottom: 40px;
+  text-align: center;
+  font-size: 40px;
+  
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.btn-kids{
+  margin-top: 10px;
+  background-color: black;
+  
+  color: white;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  font-size: 11px;
+}
+.btn-kids:hover{
+  cursor: pointer;
+}
+
+#shop-kids{
+  background-color: #7ABEB2;
+  
+}
+
+.span-qmimi{
+  color: red;
+}
+
+
+@media screen and (min-width: 360px) and (max-width:768px){
+  #img-kids{
+    display: none;
+  }
+ .title .kids-section{
+   font-size: 35px;
+   padding-left: 20px;
+   padding-right: 20px;
+   }
+   .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+  }
+
+}
+/*=====================*/
+
+/*==========Footer===========*/
+
+
+  .title h1{
+    font-size: 25px;
+    }
+
+  

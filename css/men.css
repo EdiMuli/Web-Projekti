@@ -1,0 +1,109 @@
+
+/*====================*/
+/*==========MEN's CSS===========*/
+
+#img-banner {
+  padding-top: 10%;
+  width: 100%;
+  height: 700px;
+}
+
+
+.products {
+  color: white;
+ 
+  
+}
+.product img {
+  width: 300px;
+  height: 400px;
+}
+
+.product-center {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+  
+  gap: 5rem;
+  margin-bottom: 5rem;
+  
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+.product {
+  text-align: center;
+  padding-bottom: 1rem;
+  
+  border-radius: 2px solid black;
+  
+}
+
+#mens-id{
+  text-align: center;
+  padding-top: 30px;
+}
+
+.headingtxt{
+  padding-top: 30px;
+  text-align: center;
+
+}
+
+.paragraf-text{
+  padding-top:20px;
+  padding-bottom: 30px;
+}
+
+hr {
+  opacity: 0.2;
+}
+
+.Tommy-section{
+  padding-top: 30px;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom:30px ;
+}
+
+.btn-mens{
+  margin-top: 10px;
+  background-color: black;
+  color: white;
+  width: 100px;
+  height: 30px;
+  text-align: center;
+  font-size: 11px;
+}
+.btn-mens:hover{
+  cursor: pointer;
+}
+
+#shop-mens{
+  background-color: #425F85;
+}
+
+.span-qmimi{
+  color: red;
+}
+
+.btn-mens:hover{
+  cursor: pointer;
+}
+
+
+@media screen and (min-width: 360px) and (max-width:768px){
+ .title .Tommy-section{
+   font-size: 22px;
+   padding-left: 30px;
+   padding-right: 30px;
+   }
+
+   .footer-col{
+    width: 50%;
+    margin-bottom: 30px;
+    padding-left: 40px;
+  }
+
+}
