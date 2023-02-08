@@ -126,7 +126,7 @@
     <div class="product-center container">
       <div class="product">
         <div class="img-cover">
-          <img src="img/product1.jpg" height="400px" alt="" />
+          <img src="img/product11.jpg" height="400px" alt="" />
         </div>
         <p> White T-Shirt</p>
         <img src="img/rating.JPG" height="30px" >
