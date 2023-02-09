@@ -466,5 +466,8 @@ bottom: 5%;
     justify-content: space-evenly; 
   }
   
+  #wpstats {
+    display: none;
+    }
   
   }

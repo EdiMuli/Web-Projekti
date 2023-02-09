@@ -17,7 +17,9 @@
   text-align: center;
   margin-bottom: 50px;
 }
-
+#wpstats {
+  display: none;
+  }
 .container-about h1{
   text-transform: uppercase;
   font-size: 36px;
