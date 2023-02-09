@@ -164,24 +164,24 @@
 
     <section class="nike-collection">
       <h2>Straight from</h2>
-      <h1 style="font-size: 50px;"><span id="nike-text">Nike</span> Collection </h1>
+      <h1 style="font-size: 50px;"><span id="nike-text">Nike & Air Jordan</span> Collection </h1>
 
       <div class="wrapper">
         <div class="box-1">
          
-          <img src="img/nike-1.png" alt="">
+          <img src="img/nikee-1.png" alt="">
           
           <p class="emri-pr">Nike Air Force 1 </p>
            
         </div>
 
         <div class="box-2">
-          <img src="img/nike-2.png" alt="">
+          <img src="img/nikee-2.png" alt="">
           <p class="emri-pr">NikeCourt Air</p>
         </div>
 
         <div class="box-3">
-          <img src="img/nike-1.png" alt="">
+          <img src="img/nike-3.png" alt="">
           <p class="emri-pr">NikeCourt Air</p>
         </div>
 
@@ -201,8 +201,8 @@
         </div>
 
         <div class="box-7">      
-          <img src="img/nike-7.png" alt="">
-          <p class="emri-pr">Nike Air Force 1 Shadow</p>
+          <img src="img/nikee-7.png" alt="">
+          <p class="emri-pr">Jordan Retro 3</p>
         </div> 
         
       </div>

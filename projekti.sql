@@ -86,7 +86,7 @@ CREATE TABLE `produktet` (
 
 INSERT INTO `produktet` (`ID`, `foto_produktit`, `emri_produktit`, `cmimi_produktit`, `kategoria`, `added`) VALUES
 (15, './img/bproduct14.jpeg', 'Product', '39.99$', 'beauty', 'Blerta'),
-(16, './img/wproduct5.jpeg', 'Dress', '39.99$', 'womens_clothes', 'Blerta'),
+(16, './img/wproductt5.jpeg', 'Dress', '39.99$', 'womens_clothes', 'Blerta'),
 (21, './img/product3-kids.jpg', 'Product', '19.99$', 'kids_clothes', 'Blerta'),
 (31, './img/product4-kids.jpg', 'Product', '65.99$', 'kids_clothes', 'Premtim'),
 (32, './img/product11-men.jpg', 'Bracelet', '19.99$', 'mens_clothes', 'Premtim'),

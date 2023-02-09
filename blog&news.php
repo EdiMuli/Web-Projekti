@@ -24,8 +24,7 @@
             <div class="title">
                 <h2>Blog & News</h2>
                 <p>
-                    Lorem ipsum dolor sit amet consectetur adipisicing elit
-                    Sint, adipisci fugiat.
+                Find the latest about Fashion Blogs news, plus helpful articles, tips and tricks.
                 </p>
             </div>
             <div class="cards">
