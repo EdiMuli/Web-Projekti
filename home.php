@@ -135,26 +135,26 @@
 
       <div class="product">
         <div class="img-cover">
-          <img src="img/product2.jpg"height="400px" alt="" />
+          <img src="img/productt2.jpg"height="400px" alt="" />
         </div>
-        <p> White T-Shirt </p>
+        <p> SDMN Varsity Jacket </p>
         <img src="img/rating.JPG" height="30px">
         <div class="price">$39.99</div>
       </div>
 
       <div class="product">
         <div class="img-cover">
-          <img src="img/product3.jpg" height="400px"alt="" />
+          <img src="img/productt3.jpg" height="400px"alt="" />
         </div>
-        <p>LTB jeans</p>
+        <p>SDMN x SpongeBob Hoodie</p>
         <img src="img/rating.JPG" height="30px" >
         <div class="price">$45.99</div>
       </div>
       <div class="product">
         <div class="img-cover">
-          <img src="img/product4.webp"height="400px" alt="" />
+          <img src="img/productt4.jpg"height="400px" alt="" />
         </div>
-        <p>Sportswear</p>
+        <p>SDMN Partition Hoodie</p>
         <img src="img/rating.JPG" height="30px" >
         <div class="price">$79.99</div>
       </div>
@@ -163,7 +163,7 @@
 
 
     <section class="nike-collection">
-      <h2>Straight from nike</h2>
+      <h2>Straight from</h2>
       <h1 style="font-size: 50px;"><span id="nike-text">Nike</span> Collection </h1>
 
       <div class="wrapper">
