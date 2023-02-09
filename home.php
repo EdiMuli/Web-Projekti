@@ -34,42 +34,42 @@
 
         <div class="contentbx">
             <div class="active">
-                <p class="paragraf-1">Women's Collection 2021</p> 
+                <p class="paragraf-1">Women's Collection 2023</p> 
                 <br>
                 <h1 class="women-collections">NEW COLLECTION!</h1> 
                 <br>
-               <p class="paragraf-2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odit aliquam velit </p>
+               <p class="paragraf-2">Fashion is the part of the daily air and it changes all the time, with all events. You can even see the approaching of a revolution in clothes. You can see and feel everything in clothes. </p>
                <br>
                <a  class="btn-anm" href="womens.php"><img src="img/Button1.png" alt=""></a>
             </div>
 
 
             <div>
-                <p class="paragraf-1">Kids Collection 2021</p> 
+                <p class="paragraf-1">Kids Collection 2023</p> 
                 <br>
                 <h1 class="kids-collections">NEW COLLECTION!</h1> 
                 <br>
-               <p class="paragraf-2">Lorem ipsum dolor sit amet consectetur  elit. Odit aliquam velit similique </p>
+               <p class="paragraf-2">The perfect style for your kids. </p>
                <br>
                <a class="btn-anm" href="kids.php"><img src="img/Button3.jpg" alt=""></a>
             </div>
             
             <div>
-                <p class="paragraf-1">Men's Collection 2021</p> 
+                <p class="paragraf-1">Men's Collection 2023</p> 
                 <br>
                 <h1 class="Men-collections">NEW COLLECTION!</h1> 
                 <br>
-               <p class="paragraf-2" >Lorem ipsum dolor sit amet consectetur adipisici elit. Odit aliquam velit simil</p>
+               <p class="paragraf-2" >Remind yourself. Nobody built like you, you design yourself.</p>
                <br>
                <a class="btn-anm" href="men.php"><img src="img/Button2.jpg" alt=""></a>
             </div>
 
             <div>
-                <p class="paragraf-1">Beauty Collection 2021</p> 
+                <p class="paragraf-1">Beauty Collection 2023</p> 
                 <br>
                 <h1 class="beauty-collection">NEW COLLECTION!</h1> 
                 <br>
-               <p class="paragraf-2">Lorem ipsum dolor sit amet consectetur adipisicing elit.  aliquam velit similique hic</p>
+               <p class="paragraf-2">Treat your makeup like jewelry for the face. Play with colors, shapes, structure—it can transform you.</p>
                <br>
                <a class="btn-anm" href="beauty.php"><img src="img/Button4.jpg" alt=""></a>
             </div>
@@ -102,7 +102,7 @@
        <div class="col-4">
         <img src="img/icon3.jpg" >
         <h4 class="heading4">Money-Back Guarantee</h4>
-        <p>If an item arrived damaged or you've changed your mind, you can send it >back for a full refund.</p>
+        <p>If an item arrived damaged or you've changed your mind, you can send it back for a full refund.</p>
 
 
        </div>
@@ -110,7 +110,7 @@
        <div class="col-4">
         <img src="img/icon4.jpg" >
         <h4 class="heading4">Finest Quality</h4>
-        <p>Designed to las, each of our products has been crafted with the finest materials.</p>
+        <p>Each of our products has been crafted with the finest materials.</p>
 
         </div>
 
@@ -128,7 +128,7 @@
         <div class="img-cover">
           <img src="img/product11.jpg" height="400px" alt="" />
         </div>
-        <p> White T-Shirt</p>
+        <p> XIX Nitro Puffer Gilet</p>
         <img src="img/rating.JPG" height="30px" >
         <div class="price">$29.99</div>
       </div>
