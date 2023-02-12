@@ -17,7 +17,7 @@ function validateInput(){
         alert("Mbiemri duhet te filloj me shkronje te madhe!");
         return false;
     }else if(!isValidUsername(userName.value.trim())) {
-        alert("Username-i ka me pak se 6 karaktere");
+        alert("Username-i ka me pak se 8 karaktere");
         return false;
     }else if(!isValidEmail(email.value.trim())){
         alert("Email eshte dhene gabim!");
@@ -47,7 +47,7 @@ function isValidName(fname){
  }
 
  function isValidUsername(userName){    
-    return /[a-z]{8,15}$/.test(userName);
+    return /[a-z]{6,15}$/.test(userName);
  }
 
  function isValidPassword(pwd){
