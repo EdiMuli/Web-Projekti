@@ -17,13 +17,13 @@ function validateInput(){
         alert("Mbiemri duhet te filloj me shkronje te madhe!");
         return false;
     }else if(!isValidUsername(userName.value.trim())) {
-        alert("Username-i ka me pak se 8 karaktere");
+        alert("Username-i ka me pak se 6 karaktere");
         return false;
     }else if(!isValidEmail(email.value.trim())){
         alert("Email eshte dhene gabim!");
         return false;
     }else  if(!isValidPassword(pwd.value.trim())){
-        alert("Password-i duhet te kete 3 numra ne fund!");
+        alert("Password-i duhet te kete 1 numer ne fund!");
         return false;
     }else if(pwd.value.trim()!==conPwd.value.trim()){
         alert("Password & Confirm password nuk perputhen!");
@@ -51,5 +51,5 @@ function isValidName(fname){
  }
 
  function isValidPassword(pwd){
-    return /(([^A-Z]*[a-z])\d{3})$/.test(pwd);
+    return /(([^A-Z]*[a-z])\d{1})$/.test(pwd);
  }

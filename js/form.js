@@ -16,10 +16,10 @@ function validateInput(){
 }
 
  function isValidUsername(username){
-    return /[a-z]{8,15}$/.test(username);
+    return /[a-z]{6,15}$/.test(username);
   }
  
  
   function isValidPassword(password){
-     return /(([^A-Z]*[a-z])\d{3})$/.test(password);
+     return /(([^A-Z]*[a-z])\d{1})$/.test(password);
   }
