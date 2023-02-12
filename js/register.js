@@ -8,7 +8,7 @@ let form=document.querySelector("form");
 
 function validateInput(){
     if(fname.value.trim()==="" || Lname.value.trim()==="" || userName.value.trim()==="" || email.value.trim()==="" || pwd.value.trim()==="" || conPwd.value.trim()===""){
-        alert("Plotesoni te gjitha fushatt");
+        alert("Plotesoni te gjitha fushat");
         return false;
     }else if(!isValidName(fname.value.trim())){
         alert("Emri duhet te filloj me shkronje te madhe!");
@@ -47,7 +47,7 @@ function isValidName(fname){
  }
 
  function isValidUsername(userName){
-    return /[a-z]{8,15}$/.test(userName);
+    return /[a-z]{6,15}$/.test(userName);
  }
 
  function isValidPassword(pwd){
