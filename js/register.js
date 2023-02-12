@@ -8,7 +8,7 @@ let form=document.querySelector("form");
 
 function validateInput(){
     if(fname.value.trim()==="" || Lname.value.trim()==="" || userName.value.trim()==="" || email.value.trim()==="" || pwd.value.trim()==="" || conPwd.value.trim()===""){
-        alert("Plotesoni te gjitha fushat");
+        alert("Plotesoni te gjitha fushat!");
         return false;
     }else if(!isValidName(fname.value.trim())){
         alert("Emri duhet te filloj me shkronje te madhe!");

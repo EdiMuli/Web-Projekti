@@ -15,7 +15,7 @@
   <header class="header">
     <div class="top-nav">
         <div class="container d-flex" >
-        <a href="home.php"><img class="logo" src="../img/logo-7.png" alt=""></a>
+        <a href="home.php"><img class="logo" src="../img/logo11.png" alt=""></a>
             <ul class="d-flex">
               
                 <li><a href=""><img src="../img/6f0a18fad030e38fc7194c6a4c334793.png" alt=""></a></li>
