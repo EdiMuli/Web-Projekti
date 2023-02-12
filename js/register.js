@@ -47,9 +47,9 @@ function isValidName(fname){
  }
 
  function isValidUsername(userName){    
-    return /[a-z]{6,15}$/.test(userName);
+    return /[a-z]{8,15}$/.test(userName);
  }
 
  function isValidPassword(pwd){
-    return /(([^A-Z]*[a-z])\d{1})$/.test(pwd);
+    return /(([^A-Z]*[a-z])\d{3})$/.test(pwd);
  }
