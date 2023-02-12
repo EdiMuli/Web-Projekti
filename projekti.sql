@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Feb 12, 2023 at 09:46 PM
+-- Generation Time: Feb 12, 2023 at 09:54 PM
 -- Server version: 10.4.27-MariaDB
 -- PHP Version: 8.2.0
 
@@ -126,7 +126,8 @@ INSERT INTO `produktet` (`ID`, `foto_produktit`, `emri_produktit`, `cmimi_produk
 (72, './img/bproductt3.jpeg', 'FEON', '24.99$', 'beauty', 'Eduard'),
 (73, './img/bproductt4.jpeg', 'LEON', '49.99$', 'beauty', 'Eduard'),
 (74, './img/bproductt5.jpeg', 'DEON', '35.99$', 'beauty', 'Eduard'),
-(75, './img/bproductt7.jpeg', 'TEON', '26.99$', 'beauty', 'Eduard');
+(75, './img/bproductt7.jpeg', 'TEON', '26.99$', 'beauty', 'Eduard'),
+(76, './img/bproductt8.jpeg', 'PEON', '34.99$', 'beauty', 'Eduard');
 
 -- --------------------------------------------------------
 
@@ -201,7 +202,7 @@ ALTER TABLE `news`
 -- AUTO_INCREMENT for table `produktet`
 --
 ALTER TABLE `produktet`
-  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=76;
+  MODIFY `ID` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=77;
 
 --
 -- AUTO_INCREMENT for table `user`
